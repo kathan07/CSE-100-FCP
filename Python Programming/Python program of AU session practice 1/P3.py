@@ -1,0 +1,5 @@
+print("Roll Number: AU2140040 \n")
+print("Name: Kathan Yogesh Thakkar \n")
+print("Adress: Naranpura \n")
+print("SEAS \n")
+print("Ahmedabad University")
